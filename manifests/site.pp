@@ -8,7 +8,7 @@ node default {
 
 }
 
-node 'master.puppet.vm' {
+node 'vm-01.yknf4xgyokqelfhb00seupnkma.bx.internal.cloudapp.netm' {
   include role::master_server
 }
 
